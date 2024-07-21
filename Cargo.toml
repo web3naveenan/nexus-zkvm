@@ -15,7 +15,7 @@ members = [
     "spartan",
     "core",
     "jolt",
-    "sdk",
+    "sdk", "nexus-project",
 ]
 default-members = [
     "vm",
